@@ -1,0 +1,9 @@
+{
+  "name": "react-localstorage-hook",
+  "version": "1.0.0",
+  "description": "Adds a hook to sync a state variable with the user's browser's local storage.",
+  "main": "index.js",
+  "keywords": [],
+  "author": "Timothy Metcalfe",
+  "license": "MIT"
+}

@@ -8,7 +8,7 @@ Adds a hook to sync a state variable with the user's browser's local storage.
 
 ## Usage
 
-```
+```JavaScript
 import useLocalStorage from "react-localstorage-hook";
 
 function App() {
